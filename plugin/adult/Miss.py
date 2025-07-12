@@ -22,7 +22,7 @@ class Spider(Spider):
         {
             "": "",
             "ext": {
-                "site": "https://missav.ai",
+                "site": "https://missav.ws",
                 "cfproxy": ""
             }
         }
